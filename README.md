@@ -1,4 +1,4 @@
-<h1 align="right">👋Hi, I'm Valen</h1>
+<h1 align="left">👋Hi, I'm Valen</h1>
 
 I am Valentin Villanueva, i'm currently in my third year of information systems engineering at the National Technological University (UTN)
 - 🌱 I'm currently learning ** Mern Stack, REST API, Client-Side / Server-Side **
