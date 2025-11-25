@@ -4,7 +4,7 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
 - 🌱 I'm currently learning ** Mern Stack, REST API, Client-Side / Server-Side **
 - 💀 I'm looking for my first job to be able to grow in this field
 - 🥅 2026 Goals: find that job and be able to continue learning along the way
-- :octocat: Fun fact: I love my cat.
+- :octocat: She is Pitusa, love my cat.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
