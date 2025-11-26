@@ -28,6 +28,8 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Jakarta%20EE-000000?style=for-the-badge&logo=jakarta-dot-ee&logoColor=white">
+  <img src="https://img.shields.io/badge/Javalin-000000?style=for-the-badge&logo=javalin&logoColor=white">
+  <img src="https://img.shields.io/badge/Spark%20Java-F8DC75?style=for-the-badge&logo=java&logoColor=black">
 </span>
 
 <h4> Databases </h4>
