@@ -6,8 +6,6 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
 - 🥅 2026 Goals: find that job and be able to continue learning along the way
 - :octocat: I do it all for "Pitusa".
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinVilla&layout=compact&theme=vision-friendly-dark)](https://github.com/ValentinVilla)
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <h4> Languages </h4>
 <span> 
