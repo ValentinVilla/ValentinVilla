@@ -8,6 +8,10 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinVilla&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -70,7 +74,7 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -78,7 +82,7 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
-## 
+<br><br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <div align="right">:trollface:</div>
@@ -93,4 +97,4 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
 -----
 Credits: [Valentin Villa](https://github.com/ValentinVilla)
 
-Last Edited on: 25/11/2025
+Last Edited on: 30/11/2025
