@@ -79,9 +79,19 @@ I am Valentin Villanueva, i'm currently in my third year of information systems 
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
-<br><br>
+##
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  <a href="https://github.com/ValentinVilla">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinVilla&theme=github_dark" alt="Lenguajes" />
+  </a>
+</p>
+
+##
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
 <div align="right">:trollface:</div>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
